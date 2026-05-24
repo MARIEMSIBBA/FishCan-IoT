@@ -85,13 +85,11 @@ The food industry, particularly fish canning production, relies on two critical 
 ```bash
 fishcan-iot/
 │
-├── src/main.cpp                  # ESP32 firmware (sensor reading + HTTP send)
+├── src/main.cpp              # ESP32 firmware (sensor reading + HTTP send)
 │
 ├── api.py                    # FastAPI server
-│
-│
 ├── sensor_data.csv           # Historical sensor data
-│ 
+│__ diagram.json              # Simulation montage 
 │
 ├── README.md
 └── .gitignore
