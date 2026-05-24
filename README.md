@@ -80,7 +80,7 @@ The food industry, particularly fish canning production, relies on two critical 
 
 ---
 
-##  Project Structure
+##  Project Structure of the embedded part
 
 ```bash
 fishcan-iot/
